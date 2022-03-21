@@ -1,9 +1,14 @@
 # MyWorld
-Fun 3D game developed in C and C++ 
+the goal of this project is to create a stable game that uses different programing langiages, and has different technologies that would add more functionality and security to the game.
 
 # Techs used so far
 - Docker
 - Database
-- C, C++, python ..
 - Tests
 - Networking
+
+# Languages
+- C
+- C++
+- Python
+- JavaScript
